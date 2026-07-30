@@ -1,0 +1,5 @@
+torch
+transformers
+langchain
+langchain-core
+pydantic
